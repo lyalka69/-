@@ -1,0 +1,7 @@
+D:\Informatika\тема 6\praktikum15\bin\Debug\praktikum15.exe.config
+D:\Informatika\тема 6\praktikum15\bin\Debug\praktikum15.exe
+D:\Informatika\тема 6\praktikum15\bin\Debug\praktikum15.pdb
+D:\Informatika\тема 6\praktikum15\obj\Debug\praktikum15.csproj.AssemblyReference.cache
+D:\Informatika\тема 6\praktikum15\obj\Debug\praktikum15.csproj.CoreCompileInputs.cache
+D:\Informatika\тема 6\praktikum15\obj\Debug\praktikum15.exe
+D:\Informatika\тема 6\praktikum15\obj\Debug\praktikum15.pdb
